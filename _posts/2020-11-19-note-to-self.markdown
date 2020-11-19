@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Note to self"
+title:  "Launching Jekyll"
 date:   2020-11-19 08:43:51 +0100
 ---
 When trying to serve your site using `jekyll` and you get an error like this:
