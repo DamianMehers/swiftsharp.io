@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A generic REST call/decode function with a type as a parameter"
+title:  "A generic Swift REST call/decode function with a type as a parameter"
 date:   2020-11-19 09:55:00 +0100
 ---
 
