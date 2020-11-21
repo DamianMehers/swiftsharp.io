@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Changing the currently selected SwiftUI TabView tab"
-date:   2020-11-21 09:37:00 +0100
+date:   2020-11-21 10:03:00 +0100
 ---
 
 ```swift
