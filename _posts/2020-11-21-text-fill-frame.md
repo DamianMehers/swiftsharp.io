@@ -1,10 +1,8 @@
 ---
 layout: post
 title:  "Making a SwiftUI Text fill the frame"
-date:   2020-11-20 10:40:00 +0100
+date:   2020-11-21 09:25:00 +0100
 ---
-
-To make a SwiftUI Text fill the frame:
 
 ```swift
 Text("Welcome")
