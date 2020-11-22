@@ -21,7 +21,7 @@ date:   2020-11-22 17:47:25 +0100
 }
 ```
 
-Create/updare a root-level `settings.json` to enable tab-completion:
+Create/update a root-level `settings.json` to enable tab-completion:
 
 ```json
 {
