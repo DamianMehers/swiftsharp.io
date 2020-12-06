@@ -4,7 +4,7 @@ title:  "SwiftUI Radial Gradient with hex"
 date:   2020-12-06 09:13:15 +0100
 ---
 
-```css
+```
 background: linear-gradient(197.54deg, #D0A0C3 0%, #D94E42 52.73%, #FAEF64 100%);
 ```
 
