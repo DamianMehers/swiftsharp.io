@@ -9,5 +9,5 @@ VStack {
         .foregroundColor(.orange)
         .font(.title3)
 }
-.background(RoundedRectangle(cornerRadius: .foregroundColor(.orange).opacity(0.05))
+.background(RoundedRectangle(cornerRadius: 25.0).foregroundColor(.orange).opacity(0.05))
 ```
