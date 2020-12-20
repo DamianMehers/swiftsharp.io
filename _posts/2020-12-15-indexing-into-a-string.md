@@ -8,7 +8,7 @@ date:   2020-12-15 08:25:27 +0100
 let boundaryKey = "boundary="
 guard let contentType = headers["Content-Type"] else {
     logE("opened", "No content type header)")
-    return
+    return 
 }
 
 let contentTypeParts = contentType.split(separator: ";").map {$0.trimmingCharacters(in: .whitespaces) }
