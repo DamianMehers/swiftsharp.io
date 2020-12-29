@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "When encoding a Double there are too many decimal places"
+title:  "When JSON encoding a Double there are too many decimal places"
 date:   2020-12-27 10:48:40 +0100
 ---
 If you are trying to generate JSON and a double is encoded with loads of decimal places and weird "1" at the end, like this:
