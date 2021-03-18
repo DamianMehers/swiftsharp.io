@@ -20,4 +20,4 @@ The above fails. I think this is because tapping the label part of the Toggle do
     XCTAssert(sw.value as! String == "1")
 ```
 
-Now it works - I tap in the vertical center, on the left side of the switch, minus ten points.
+Now it works - I tap in the vertical center, on the right side of the switch, minus ten points.
